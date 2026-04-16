@@ -3,7 +3,7 @@
 Software engineer based in Tokyo, Japan. I specialize in robotics, computer vision, and deep learning applications.
 - 🧑‍💻 Check out my [my portfolio website](https://telios.github.io)
 
-## 🌱 Skills
+## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=python,cpp,cs,pytorch,linux,ros,opencv,git,docker,js,ts,java,stackoverflow,unity,blender" />
 <br>
 
